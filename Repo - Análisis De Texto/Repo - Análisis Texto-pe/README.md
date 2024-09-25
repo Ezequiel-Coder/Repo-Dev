@@ -18,6 +18,7 @@ Este script analiza un texto ingresado por el usuario y realiza las siguientes o
 1. Entrada de texto: El pequeño perro estaba en el parque esperando.
 2. Salida: La cantidad de palabras con más 3, 5 y 7 letras de longitud son: 2
            El porcentaje de palabras con dos vocales sobre el total de palabras del, texto es: 50%
+           La cantidad de palabras con más de una sílaba 'pe' es: 1
 
 
 
