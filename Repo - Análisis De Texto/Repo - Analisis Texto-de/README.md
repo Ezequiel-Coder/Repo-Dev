@@ -27,3 +27,8 @@ Este script analiza un texto ingresado por el usuario y realiza las siguientes o
            Palabras entre 4 y 6 letras: 3
            Palabras con más de 6 letras: 1
            Palabras con 'de' en la primera mitad: 2 
+
+
+### Requerimientos
+
+- Python 3.6 o superior
