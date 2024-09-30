@@ -1,3 +1,18 @@
 # Bienes Raices - Proyecto de Practica
 
-Blog Café es tu espacio para descubrir consejos y artículos sobre el arte del café. Diseñado con Astro, Tailwind y JavaScript para una experiencia rápida y atractiva.Se cuenta cuántas palabras tienen la secuencia 'de' en la primera mitad de la palabra.
+Desarrollado con la versatilidad de Astro, Sass con metodología BEM y JavaScript.
+Catálogo de lujosas casas y departamentos, mediante una interfaz intuitiva y visualmente atractiva.
+
+## Características a considerar
+* Resposividad: La página de adapta perfectamente a diferentes dispositivos (moviles, tablets, computadoras), ofreciendo una experiencia de usuario optima en cualquier pantalla.
+
+* Formulario de contacto: Permite a los usuarios solicitar información o programar llamada visitas a las propiedades.
+
+## Ejemplo de estructura de la página
+* Página de inicio: Presenta las propiedades descatadas y una breve descripción de los servicios ofrecidos.
+
+* Páginas de las propiedade: Muestra el detalle de cada propiedad, incluyencdo galeria de imágenes descripción caracteristicas.
+
+* Blog: Muestra los articulos puvlicados, catagorizados por temas relevantes.
+
+
