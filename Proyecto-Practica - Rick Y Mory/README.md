@@ -1,0 +1,2 @@
+# Proyecto Rick y Morty 
+ste proyecto muestra una lista de personajes de la serie "Rick y Morty", consumiendo su API oficial. Se utilizó Astro, Tailwind CSS, TypeScript y la API de Rick y Morty para desarrollar una interfaz dinámica y responsive. Los datos se obtienen de la API.
