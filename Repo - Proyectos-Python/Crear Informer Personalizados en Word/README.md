@@ -49,7 +49,6 @@ Las contribuciones son bienvenidas. Si tienes sugerencias o encuentras algún er
 
 ## Creditos
 Este proyecto fue desarrollado en Visual Studio Code, utilizando Python y la biblioteca Streamlit.
-
 Agradecimientos especiales a las siguientes herramientas y bibliotecas que facilitaron el desarrollo de esta aplicación:
 
 * Python: para la programación principal y manipulación de datos.
